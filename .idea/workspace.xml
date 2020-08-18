@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="949c1f48-2abf-4096-8cb4-b19ab5ff3bcb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/0c00f64d39c1867c8dc3be87d9ac4efce17f5b79/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/0c00f64d39c1867c8dc3be87d9ac4efce17f5b79/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indexNL.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexNL.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597734973334</updated>
-      <workItem from="1597734974468" duration="15467000" />
+      <workItem from="1597734974468" duration="16220000" />
     </task>
     <servers />
   </component>
