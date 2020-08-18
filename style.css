@@ -5,4 +5,9 @@ main {
 body {
   background-color: #F2F2F2; }
 
+article .card {
+  border: none;
+  width: 30%;
+  height: 40rem; }
+
 /*# sourceMappingURL=style.css.map */
