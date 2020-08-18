@@ -2,3 +2,13 @@ main{
   width:90%;
   margin:auto;
 }
+
+$colorBg: #F2F2F2;
+$darkG:#365902;
+$mediumG:#7EA629;
+$flashyG:#9EBF26;
+$lightG: #D0D991;
+
+body{
+  background-color:$colorBg;
+}
