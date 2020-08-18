@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="949c1f48-2abf-4096-8cb4-b19ab5ff3bcb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0c00f64d39c1867c8dc3be87d9ac4efce17f5b79/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/0c00f64d39c1867c8dc3be87d9ac4efce17f5b79/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/image2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/image3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597734973334</updated>
-      <workItem from="1597734974468" duration="11482000" />
+      <workItem from="1597734974468" duration="12362000" />
     </task>
     <servers />
   </component>
@@ -52,5 +56,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="372" y="235" width="695" height="665" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1597735605838" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597753246942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-128.1920.1080@0.0.1440.900" timestamp="1597753246942" />
   </component>
 </project>
